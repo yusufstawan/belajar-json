@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Yusuf",
+    "umur": 25,
+    "nim": "15502244003",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "Doddy Ferdiansyah",
+      "pembimbing2": "Erik Doank"
+    }
+  },
+  {
+    "nama": "Yusuf",
+    "umur": 25,
+    "nim": "15502244003",
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing": {
+      "pembimbing1": "Doddy Ferdiansyah",
+      "pembimbing2": "Erik Doank"
+    }
+  }
+]
